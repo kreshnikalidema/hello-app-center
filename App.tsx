@@ -5,7 +5,7 @@ export const App: React.FC = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.heading}>Hello App Center</Text>
-      <Text style={styles.version}>Version: 0.0.2</Text>
+      <Text style={styles.version}>Version: 0.0.3</Text>
     </View>
   );
 };
